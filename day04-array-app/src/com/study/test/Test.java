@@ -17,5 +17,8 @@ public class Test {
         System.out.println(arr1[1]);
         System.out.println(arr2[1]);
     }
+    public static int sum(int a,int b){
+        return a+b;
+    }
 
 }
